@@ -6,3 +6,13 @@
 
 # Generated data
 volumes
+
+# secrets
+secrets-docker-compose.yml
+
+# macOS
+.DS_Store
+
+# Emacs
+*~
+\#*\#
